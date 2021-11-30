@@ -4,10 +4,10 @@ This Jupyter notebook wrangles and splits data authored and gathered by Yasser A
 </br>
 </br>
 The libraries this Jupyter notebook used are:</br>
-numpy         1.20.1</br>
-pandas        1.2.4</br>
-scikit-learn  0.24.1</br>
-matplotlib    3.3.4
+numpy <tab align=right> 1.20.1</br>
+pandas <tab align=right>1.2.4</br>
+scikit-learn <tab align=right>0.24.1</br>
+matplotlib <tab align=right>3.3.4
 mlwpy
 </br>
 </br>
