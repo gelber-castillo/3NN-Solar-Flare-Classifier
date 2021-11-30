@@ -1,6 +1,6 @@
 # 3NN-Solar-Flare-Classifier
 </br>
-This Jupyter notebook wrangles and splits data authored and gathered by Yasser Abduallah, Jason T. L. Wang, and Haimin Wang, from their FlareML repository, and uses a 3 nearest neighbor algorithm to classify a flare as 1 of 4 targets: C, B, M, and X.
+This Jupyter notebook wrangles and splits data authored and gathered by Yasser Abduallah, Jason T. L. Wang, and Haimin Wang, from their FlareML repository, and uses a 3 nearest neighbor algorithm to classify a flare as 1 of 4 targets: C, B, M, and X. This algorithm achieves an average of 61% classification accuracy and serves as a foundation for more advanced and optimized classifiers. 
 </br>
 </br>
 The libraries this Jupyter notebook used are:</br>
